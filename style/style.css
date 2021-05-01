@@ -60,7 +60,7 @@
     top: 100%;
     opacity: 1;
     z-index: 99;
-    height: 50vh;
+    height: 70vh;
     font-size: 1.5rem;
     background: var(--black);
     transition: 0.5s;
